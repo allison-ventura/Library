@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: cadetblue;
+}
+.form {
+    width: 20%;
+    height: 350px;
+    margin: auto;
+    overflow: hidden;
+    background-color: beige;
+    margin-top: 10px;
+    position: relative;
+    border-radius: 25px;
+    float: left;
+}
+.form {
+    display: block;
+}
+.form h1{
+    text-align: center;
+    margin-top: 10px;
+}
+#info{
+   text-align: justify;
+   margin-left: 25px;
+}
+#info h2{
+    font-size: 20px;
+}
+
+.row {
+    background-color: red;
+    position: relative;
+    overflow: hidden;
+    margin-top: 100px;
+}
+#oneOne{
+  float: right;
+}
+/* ------------------------------------------------------------------------------------------------------------------------ */
+/* .books {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  }
+  .books__row {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: row wrap;
+  }
+  .books__col {
+    width: 24%;
+    border: 1px solid rgba(29, 53, 87, 0.7);
+    border-radius: 0.5rem;
+    margin-bottom: 2rem;
+  }
+  .books__col:not(:last-child) {
+    margin-right: 1rem;
+  }
+  .books__book--cover {
+    width: 100%;
+    height: 20rem;
+  }
+  .books__book--detail {
+    width: 100%;
+    border-top: 1px solid rgba(29, 53, 87, 0.5);
+    padding: 1rem;
+  }
+  .books__book--detail p {
+    font-weight: 500;
+    font-size: 1.6rem;
+    color: #1d3557;
+  }
+  .books__book--detail p:not(:last-child) {
+    margin-bottom: 1rem;
+  }
+  .books__book--buttons {
+    padding: 0 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  .books__book--buttons button {
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 1.5rem;
+    border: none;
+    padding: 1rem 1.5rem;
+    border-radius: 0.3rem;
+    cursor: pointer;
+  }
+  .books__book--buttons-delete {
+    background-color: #ba181b;
+    color: #ffffff;
+  }
+  .books__book--buttons-delete:hover {
+    background-color: #a4161a;
+  }
+  .books__book--buttons-read {
+    margin-right: 2rem;
+    border: 2px solid #3f73bd !important;
+    background-color: transparent;
+  }
+  .books__book--buttons-read.active {
+    border: none !important;
+    background-color: #3f73bd;
+    color: #ffffff;
+  }
+   */
